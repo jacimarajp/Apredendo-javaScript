@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Aprendendo JavaScript
 
 You can use the [editor on GitHub](https://github.com/jacimarajp/Apredendo-javaScript/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
