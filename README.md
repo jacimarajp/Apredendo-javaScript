@@ -6,7 +6,7 @@ Inicialmente vamos mostrar como enviar o seu projeto para sua conta no github.
 1-git config –global user.name ""
 2-git config –global user.email ""
 3-git init
-4-git remote add origin 
+4-git remote add origin url_do_seu_repositorio_no_github
 5-git pull origin máster
 6-git add .
 7-git commit -m “escreva sobre seu projeto aqui”
