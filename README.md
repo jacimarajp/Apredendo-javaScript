@@ -1,4 +1,19 @@
 ## aprendendo JavaScript
+Inicialmente vamos mostrar como enviar o seu projeto para sua conta no github. 
+1. Primeiro você deve ir lá no site do [Git](https://git-scm.com/downloads), baixa a versão para seu sistema operacional.
+2. Em seguida abra o terminal na pasta que você deseja enviar os aquivos e digite os seguintes comandos:
+```markdown
+1-git config –global user.name “”
+2-git config –global user.email “”
+3-git init
+4-git remote add origin 
+5-git pull origin máster
+6-git add .
+7-git commit -m “escreva sobre seu projeto aqui”
+8-git push origin master
+
+```
+
 
 You can use the [editor on GitHub](https://github.com/jacimarajp/Apredendo-javaScript/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
